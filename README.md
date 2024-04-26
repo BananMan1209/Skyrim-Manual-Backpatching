@@ -1,5 +1,5 @@
 ### List of steam console depot download commands for various versions of Skyrim SE ###
-Last Updated Dec/23/2023 
+Last Updated 4/25/2024
 
 # 1. Steam Console
  Open console on steam. To do this you can press the windows key plus 'R' to open the 'Run' window,
@@ -30,7 +30,11 @@ To stop steam from auto-updating Skyrim, right-click Skyrim SE on steam, go to P
    To avoid launching Skyrim through steam, use a mod organizer such as, 'Mod Organizer 2' or 'Vortex', with the SKSE loader added as an executable to launch from instead.
 
 ## Depot Versions (Ordered by Recency) (IDs taken from the steamdb.info page for Skyrim Special Edition)
-	
+	v1.6.1170 (Released January 17 2024)
+		download_depot 489830 489831 8442952117333549665
+  		download_depot 489830 489831 8042843504692938467
+  		download_depot 489830 489831 1914580699073641964
+    
 	v1.6.1130 (Released December 5 2023) 
 		download_depot 489830 489831 3737743381894105176
 		download_depot 489830 489832 4341968404481569190

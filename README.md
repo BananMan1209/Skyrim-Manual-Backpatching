@@ -14,7 +14,7 @@ Optionally, you can enable console on steam startup. To do this, go to your stea
 # 2. Downloading Depots 
 To download depots, enter the three commands needed to download all the nessecary depots for the version of Skyrim you want.
     Wait for each depot to finish downloading before entering the command for the next one.
-    Depot commands can be found under their respective versions in the '## Depot Versions' section.
+    Depot commands can be found under their respective versions in the 'Depot Versions' section.
 	
  To find the downloaded depots, go the directory where steam is installed. Example: (C:\Program Files (x86)\Steam)
     From here, open 'steamapps', then inside steamapps open 'content', inside content should contain the all downloaded depots. 

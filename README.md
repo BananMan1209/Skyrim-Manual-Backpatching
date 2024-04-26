@@ -2,31 +2,31 @@
 Last Updated Dec/23/2023 
 
 # 1. Steam console:
-    Open console on steam. To do this you can press the windows key plus 'R' to open the 'Run' window,
+ Open console on steam. To do this you can press the windows key plus 'R' to open the 'Run' window,
     in the textbox type 'steam://open/console', then press OK. Assuming steam is already open, this will open the console window on steam.
 	
-    Optionally, you can enable console on steam startup. To do this, go to your steam install path and right click 'steam.exe' (toolbar/desktop shortcut works too), click properties.
+Optionally, you can enable console on steam startup. To do this, go to your steam install path and right click 'steam.exe' (toolbar/desktop shortcut works too), click properties.
     From here, go to the shortcuts tab and find the textbox labled 'Target:', it should contain the directory location of steam.exe.
     It should contain something like this: "C:\Program Files (x86)\Steam\steam.exe" yours may be different, but so long as it ends in '\Steam\steam.exe' it should be fine.
     Leaving what is in the textbox the same, all we need to do is add ' -console' to the end. Looking like this: ' "C:\Program Files (x86)\Steam\steam.exe" -console'
     making sure to leave a single space between -console and the quotation marks. If steam was open during this process, fully close and restart steam, when it opens the console tab will be available.
 
-# Downloading depots: 
-    To download depots, enter the three commands needed to download all the nessecary depots for the version of Skyrim you want.
+# 2. Downloading depots: 
+To download depots, enter the three commands needed to download all the nessecary depots for the version of Skyrim you want.
     Wait for each depot to finish downloading before entering the command for the next one.
     Depot commands can be found under their respective versions in the '## Depot Versions' section.
 	
-    To find the downloaded depots, go the directory where steam is installed. Example: (C:\Program Files (x86)\Steam)
+ To find the downloaded depots, go the directory where steam is installed. Example: (C:\Program Files (x86)\Steam)
     From here, open 'steamapps', then inside steamapps open 'content', inside content should contain the all downloaded depots. 
     For Skyrim SE, look for a file named 'app_489830', inside this file should be the the three depots you downloaded.
 	
-# Applying the depots to your Skyrim install:
-    Inside the three depots contains the files that would make up the base skyrim install. 
+# 3. Applying the depots to your Skyrim install:
+Inside the three depots contains the files that would make up the base skyrim install. 
     To downpatch, copy the contents that are INSIDE the depot files, then paste the contents into your Skyrim install directory, replacing all when asked.
     If all is done correctly, your install of skyrim should now be of the version that you downloaded the depots for.
    
-# Recommended Tips:
-4. To stop steam from auto-updating Skyrim, right-click Skyrim SE on steam, go to Properties, Updates, under 'Automatic Updates', set to 'Only update this game when I launch it' .
+# 4. Recommended Tips:
+To stop steam from auto-updating Skyrim, right-click Skyrim SE on steam, go to Properties, Updates, under 'Automatic Updates', set to 'Only update this game when I launch it' .
    To avoid launching Skyrim through steam, use a mod organizer such as, 'Mod Organizer 2' or 'Vortex', with the SKSE loader added as an executable to launch from instead.
 
 ## Depot Versions (Ordered by Recency) (IDs taken from the steamdb.info page for Skyrim Special Edition)

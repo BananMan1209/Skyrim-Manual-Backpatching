@@ -9,7 +9,7 @@ Optionally, you can enable console on steam startup. To do this, go to your stea
     From here, go to the shortcuts tab and find the textbox labled 'Target:', it should contain the directory location of steam.exe.
     It should contain something like this: "C:\Program Files (x86)\Steam\steam.exe" yours may be different, but so long as it ends in '\Steam\steam.exe' it should be fine.
     Leaving what is in the textbox the same, all we need to do is add ' -console' to the end. Looking like this: ' "C:\Program Files (x86)\Steam\steam.exe" -console'
-    making sure to leave a single space between -console and the quotation marks. If steam was open during this process, fully close and restart steam, when it opens the console tab will be available.
+    making sure to leave a single space between -console and the quotation marks. If steam was open during this process, fully close and restart steam, upon reopening console should be available.
 
 # 2. Downloading Depots 
 To download depots, enter the three commands needed to download all the nessecary depots for the version of Skyrim you want.

@@ -32,8 +32,8 @@ To stop steam from auto-updating Skyrim, right-click Skyrim SE on steam, go to P
 ## Depot Versions (Ordered by Recency) (IDs taken from the steamdb.info page for Skyrim Special Edition)
 	v1.6.1170 (Released January 17 2024)
 		download_depot 489830 489831 8442952117333549665
-  		download_depot 489830 489831 8042843504692938467
-  		download_depot 489830 489831 1914580699073641964
+  		download_depot 489830 489832 8042843504692938467
+  		download_depot 489830 489833 1914580699073641964
     
 	v1.6.1130 (Released December 5 2023) 
 		download_depot 489830 489831 3737743381894105176
